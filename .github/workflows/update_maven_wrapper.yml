@@ -9,7 +9,6 @@ on:
     paths:
     - 'pom.xml'
     - '**/pom.xml'
-    - '**/src/**'
 jobs:
   update-maven-wrapper:
     runs-on: ubuntu-latest
