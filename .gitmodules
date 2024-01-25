@@ -1,0 +1,6 @@
+[submodule "bi-map"]
+	path = bi-map
+	url = https://github.com/skeletony007/java-bi-map.git
+; [submodule "euclidean-algorithm"]
+; 	path = euclidean-algorithm
+; 	url = https://github.com/skeletony007/java-euclidean-algorithm.git
