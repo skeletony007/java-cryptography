@@ -26,14 +26,6 @@ public class Caesar extends MonoAlphaSubstitution {
     private int shift;
 
     /**
-     * The default constructor which results in the trivial identity substitution.
-     *
-     */
-    public Caesar() {
-        substitutionTable = new BiMap<>();
-    }
-
-    /**
      * A consructor that initialises a specified shift mapping.
      *
      * @param shift the specified shift mapping
